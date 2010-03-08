@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\riot\face"
+  	"$bumpmap" "models\player/riot\face_norm"
+}

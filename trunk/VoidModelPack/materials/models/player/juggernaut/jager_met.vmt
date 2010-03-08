@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\juggernaut\jager_met"
+	"$bumpmap" "models\player\juggernaut\jager_met_n"
+}

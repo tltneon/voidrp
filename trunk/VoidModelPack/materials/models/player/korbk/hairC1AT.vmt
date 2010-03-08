@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korbk\hairC1AT"
+	"$translucent" 1
+	"$halflambert" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/slash/LOKI/visor"
+	"$bumpmap" "models/slash/LOKI/visor_normal"
+	"$translucent" 1
+	"$halflambert" 1
+	"$Envmap"             "models/slash/LOKI/reflections"
+
+	"$phong" "1"
+	"$phongexponent" "175"
+	"$phongboost" "4"	
+	"$phongfresnelranges"	"[.3 1 7]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "150"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.25"
+}

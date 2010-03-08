@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\riot\vestb"
+	"$bumpmap" "models\player\riot\vest_NORM"
+}

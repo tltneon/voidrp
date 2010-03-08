@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+"$basetexture" "droids/C_DrdMineLg"
+"$bumpmap" "droids/C_DrdMineLg_NRM"
+"$surfaceprop" "Metal"
+"$phong" "1"
+"$phongboost" "3"
+"$phongexponent" "40"
+"$phongfresnelranges" "0.1 0.2 0.9"
+"$halflambert" "1"
+"$rimlight" "1"
+"$rimlightexponent" "10"
+"$rimlightboost" "2"
+
+
+                

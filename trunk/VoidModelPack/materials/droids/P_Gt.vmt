@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "droids/P_Gt"
+	"$bumpmap" "droids/P_Gt_NRM"
+                "$phong" "1"
+                "$phongexponent" "40"
+                "$phongboost" "3"
+                "$phongfresnelranges" "[.05 .5 5]"
+                "$halflambert" "1"
+}

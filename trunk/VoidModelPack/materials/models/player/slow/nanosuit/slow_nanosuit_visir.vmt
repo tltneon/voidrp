@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\slow\nanosuit\slow_nanosuit_visir"
+	"$bumpmap"	"models\player\slow\nanosuit\slow_nanosuit_visir_bump"
+
+
+	"$halflambert" 1
+	"$selfillum" 1
+	"$surfaceprop" "Computer"
+	"$surfaceprop2" "Flesh"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 .5 .5]" 
+	"$envmapcontrast" .1
+	"$envmapsaturation" 1
+	"$normalmapalphaenvmapmask" 1
+}
