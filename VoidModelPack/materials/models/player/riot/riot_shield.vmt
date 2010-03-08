@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\riot\riot_shield"
+	"$bumpmap" "models\player\riot\riot_shield_n2"
+		
+}
+

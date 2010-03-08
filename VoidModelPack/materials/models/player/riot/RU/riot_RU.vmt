@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\riot\RU\riot_RU"
+  	"$bumpmap" "models\player/riot\pants_norm"									
+}

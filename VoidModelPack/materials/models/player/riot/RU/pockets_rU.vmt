@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\riot\RU\pockets_rU"
+  	"$bumpmap" "models\player/riot\pockets_r_norm"									
+}

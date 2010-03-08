@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "droids/C_DrdWar01"
+	"$bumpmap" "droids/C_DrdWar01_NRM"
+                "$surfaceprop" "metal"
+                "$phong" "1"
+                "$phongboost" "2"
+                "$phongexponenttexture" "droids/C_DrdWar01_PHNG"
+                "$phongfresnelranges" "[0.3 3 0.4]"
+                "$halflambert" "1"
+                "$phongalbedotint" "1"
+}

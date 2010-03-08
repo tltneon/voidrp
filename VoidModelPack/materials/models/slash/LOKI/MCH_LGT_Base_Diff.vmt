@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/slash/LOKI/MCH_LGT_Base_Diff"
+	"$bumpmap" "models/slash/LOKI/MCH_LGT_Base_Norm"
+	"$alpha" "0.5"
+
+	"$halflambert" 1
+
+	"$selfillum" 1
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "1.5"	
+	"$phongfresnelranges"	"[.3 1 7]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "300"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.15"	
+}

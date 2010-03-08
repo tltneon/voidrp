@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\juggernaut\jager_body"
+	"$bumpmap" "models\player\juggernaut\jager_body_n"
+	"$nocull" 1
+}

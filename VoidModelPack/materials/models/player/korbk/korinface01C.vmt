@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korbk/korinface01C"
+	"$halflambert" 1
+	"$model" 1
+}

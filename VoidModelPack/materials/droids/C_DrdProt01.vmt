@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "droids/C_DrdProt01"
+	"$bumpmap" "droids/C_DrdProt01_NRM"
+	"$surfaceprop" "MetalPanel"
+                "$phong" "1"
+                "$phongexponent" "40"
+                "$phongboost" "3"
+                "$phongfresnelranges" "[0.05 .5 2]"
+                "$halflambert" "0"
+}

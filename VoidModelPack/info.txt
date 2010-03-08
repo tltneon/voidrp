@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Void Model Pack"
+	"version"     "1.0"
+	"author_name" "VoidRP team"
+	"author_url"  "http://www.voidrp.ucoz.com/"
+	"info"        ""
+	"override"    "0"
+}
