@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"CakeScript G2"
+	"version"	"1.0.4"
+
+	"author_name"	"LuaBanana"
+	"author_email"	""
+	"author_url"	""
+	
+	"info"		"The revolution of GMODRP gamemodes."
+	"hide"		"0"
+}
